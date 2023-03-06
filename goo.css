@@ -1,0 +1,51 @@
+.Main_page{
+    justify-content: center;
+    display: flex;
+    margin: 4rem;
+    margin-left: 20%;
+}
+input{
+    width: 120%;
+    height: 28%;
+    margin-left: -29%;
+    border-radius: 45px;
+    border: 1px solid rgb(207, 203, 203);
+    margin-top: 5%;
+}
+.search_icon{
+    width: 20px;
+    display: flex;
+    margin-top: -6%;
+    margin-left: 31%;
+}
+.others{
+    width: 25px;
+    display: flex;
+    margin-top: -1.7%;
+    margin-left: 65%;
+    cursor: pointer;
+    border: 1px solid #f8f9fa
+}
+.others1{
+    width: 25px;
+    display: flex;
+    margin-top: -2.1%;
+    margin-left: 69%;
+    cursor: pointer;
+}
+.small{
+    margin-left: 40%;
+    margin-top: 2%;
+}
+button{
+    padding: 1.2%;
+    border: transparent;
+    cursor: pointer;
+}
+.feel{
+    margin: 1%;
+}
+.lang h5{
+    color: #4d5156;
+    margin-left: -3%;
+}
